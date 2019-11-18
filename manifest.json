@@ -1,0 +1,16 @@
+{
+    "name": "My First Submission",
+    "short_name": "My Submission",
+    "description": "Aplikasi submission pertama saya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#0288d1",
+    "theme_color": "#0288d1",
+    "icons": [
+        {
+            "src": "river.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
